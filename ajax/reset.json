@@ -1,0 +1,57 @@
+[
+    {
+        "id": 1,
+        "task": "Create mockups of new iOS app",
+        "type": "todo"
+    },
+    {
+        "id": 2,
+        "task": "Build prototype",
+        "type": "todo"
+    },
+    {
+        "id": 3,
+        "task": "Alpha-testing",
+        "type": "todo"
+    },
+    {
+        "id": 4,
+        "task": "Release beta-version",
+        "type": "todo"
+    },
+    {
+        "id": 5,
+        "task": "Collect feedback from beta-users",
+        "type": "todo"
+    },
+    {
+        "id": 6,
+        "task": "QA tests",
+        "type": "todo"
+    },
+    {
+        "id": 7,
+        "task": "Create blog post",
+        "type": "todo"
+    },
+    {
+        "id": 8,
+        "task": "Create email for all iOS users",
+        "type": "todo"
+    },
+    {
+        "id": 9,
+        "task": "Update all Sales materials with new mobile app",
+        "type": "todo"
+    },
+    {
+        "id": 10,
+        "task": "Fig bugs",
+        "type": "todo"
+    },
+    {
+        "id": 11,
+        "task": "Public launch",
+        "type": "todo"
+    }
+]
